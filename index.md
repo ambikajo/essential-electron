@@ -1,11 +1,31 @@
 # Museum Management Compendium
 
-Project Management for Museums
+Project Management for Museums and other arts/culture projects
 
-## Intro
+| Background | 
+|:--|
+| [Introduction](#introduction)  |  
+| [Collaborative](#collaborative) | 
+
+| Processes | 
+|:--|
+| [Project Charter](#project-charter)  |  
+| [Planning](#planning) | 
+| [Execution](#execution)  |  
+| [Monitoring and Controlling](#monitoring-and-controlling) | 
+| [Closing](#closing) | 
+
+| Resources | 
+|:--|
+| [Resources](#resources)  |  
+| [Downloads](#downloads)  | 
+| [Contributors](#contributors)  | 
+
+
+
+## Introduction
 This page will give you a basic start up guide to managing museum projects. The document borrows from the standard Project Management processes but applies them to museums that may have their own challenges separate from corporate projects. 
 It is common in arts management for one or two people to carry the torch for the entire project leading to documentation that is full of gaps but also severe burn out for the staff member. The hope is that we can remedy or resolve some of these problems. 
-
 
 The basic processes of PROJECT MANAGEMENT can be comfortably adapted to museum projects. 
 
@@ -14,6 +34,11 @@ Project Charter > Planning > Execution > Monitoring and Controlling > Closing
 If the project team or member is able to perceive their work in smaller projects the tasks become less overwhelming and gives them a chance to view the work as separate projects. This page is primarily based on the writer's experience as managing new/upcoming projects in various stages. 
 
 There are some basic technical definitions available for the terms that have been used. These will be linked/cited for your reference.  
+
+## Collaborative
+The document is available on this [Github](https://github.com/ambikajo/museum-compendium) page, if you would like to add/edit anything please commit to the [index.md](https://github.com/ambikajo/museum-compendium/blob/gh-pages/index.md) file or email me on ambikajoshi[at]gmail[dot]com. 
+
+Contributors will be added to the [Contributors](#contributors) section of this page.
 
 ## Project Charter
 
@@ -43,3 +68,13 @@ Various working aspects of museum projects - content curation, costing, design, 
 
 
 ## Execution
+
+## Monitoring and Controlling
+
+## Closing
+
+## Resources
+
+## Download links
+
+## Contributors
