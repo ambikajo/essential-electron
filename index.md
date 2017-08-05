@@ -18,6 +18,7 @@ Project Management for Museums and other arts/culture projects
 | Resources | 
 |:--|
 | [Resources](#resources)  |  
+| [Automation](#automation)  |  
 | [Downloads](#downloads)  | 
 | [Contributors](#contributors)  | 
 
@@ -59,7 +60,7 @@ As an arts manager you will find that on many occasions your journey starts here
 
 Create a simple master document that will serve as a ready reckoner for all information about the project. Constant updating and management of the master planning document will serve as a baseline. 
 
-Document link:
+[Sample format for Master Project Planning Document](https://docs.google.com/document/d/1qjkXnohnakZ8Tg5_rx2E0inYTxQsPoPvh5Cd6255370/edit?usp=sharing)
 
 ### Various working aspects of museum projects 
 As you are the all-round staff member coordinating the museum work, there will be so many things to do. Everything from content, curation, costing, design, execution, fundraising, trustee meetings, etc. will be under your aegis. 
@@ -69,23 +70,39 @@ Make plans for all of these works and understand their coordination points. For 
 *Don't be afraid to ask your management questions, this will help you understand how the project must move forward and what are the priorities of the museum*
 
 ### Formats for scope of work and agreements 
+To be added
 
 ### Formats for fundraising 
+To be added
 
 ### Tips on time planning 
+The strangest and possibly the most common issue of all projects  is time! One many occasions sub-projects or events that are not urgent get priority for fundraising and important aspects can take a back seat because of the lack of funding. 
+Always think a few days, few weeks, few months when sorting out your coordination. This will ensure you are looking at availability of funds, Human Resources and other logistic aspects. 
 
 ### Cost estimate
-
-
-
+[Master Project Planning document]((https://docs.google.com/document/d/1qjkXnohnakZ8Tg5_rx2E0inYTxQsPoPvh5Cd6255370/edit?usp=sharing) has a section with break-ups for various aspect of design and building the museum. This table will help you get concrete estimates from potential designers and vendors. 
 
 ## Execution
+Execution is the most exciting and also the most complex aspect of Project Management. It is common for many aspect of the plan to change when ground realities are faced.
+For the sake of museum projects execution includes initiating designers and curators works. This means that all work post the kick-off meetings of designers, curators and other creatives can be considered with the purview of execution. 
+These will become sub-projects in themselves, involving a fair amount of effort and coordination. Maintain separate sub-projects for Design and Curation if you have a large-scale project. 
+
+### Stage of Curation and Content Development
+### Stages of Design 
+### Aspects Fabrication and site-related work
 
 ## Monitoring and Controlling
 
 ## Closing
 
 ## Resources
+## Automation
+When managing so many aspects of the project, its important to be abreast with technology and use it to your advantage. The concept of automation can be extremely useful for Museums. Some products that can be helpful:
+### [Buffer](https://buffer.com)  
+Post on all social media from one platform.
+
+### [IFTTT](https://ifttt.com)
+If this then that, is a great tool to connect various services that you use. 
 
 ## Download links
 
