@@ -1,14 +1,6 @@
-![Essential Electron screenshot](https://cloud.githubusercontent.com/assets/1305617/17867404/3e699c20-685f-11e6-9303-c98862a0540a.png)
+# Museum Compendium
 
-# Essential Electron
-
-This is a informational website about Electron, answering essential Electron concepts in plain-speak, a few diagrams and links to resources for diving in deeper.
-
----
-
-This was an idea I had about a different type of documentation—or something—where text was kept short, jargon was expanded upon, concepts were defined and links provided for more in-depth explanations. I built this out because I couldn't get the idea out of my head without trying to see it through, so here it is! There is more I'll likely keep tweaking. Hopefully some will find it useful :smile:
-
-Here's a [blog post](http://jlord.us/blog/essential-electron.html) with a bit more info.
+This is a informational website about museums and project management. The website is built from this [repository](https://github.com/jlord/essential-electron)
 
 ### Build it
 
@@ -22,7 +14,7 @@ You'll need [Node.js](https://nodejs.org) to build this site:
 # Clone repository
 git clone https://github.com/jlord/essential-electron.git
 # Go into repository clone
-cd essential-electron
+cd museum-compendium
 # Install dependencies
 npm install
 # Rebuild if changes have been made to:
@@ -31,3 +23,5 @@ npm start
 # Open the page in your browser
 open index.html
 ```
+
+After you are done with your changes, build the website as per the instructions above and then git commit/push (whatever)
