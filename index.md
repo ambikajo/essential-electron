@@ -152,6 +152,6 @@ Post on all social media from one platform.
 ### [IFTTT](https://ifttt.com)
 If this then that, is a great tool to connect various services that you use. 
 
-## Download links
+## Downloads
 
 ## Contributors
